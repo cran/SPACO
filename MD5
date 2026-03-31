@@ -1,4 +1,4 @@
-126f5b772d3f94bc76b6d03266a71136 *DESCRIPTION
+9f837d2dd4edf2bfb4d93a5a5b54a97f *DESCRIPTION
 7c0d98c8500eed61db8e45b9b6380b30 *LICENSE
 d0714810adcfd5bcc098f8dd4836ea7b *NAMESPACE
 40de7d7d6de7bfec551c44aa9816d9e7 *R/AuxiliaryFunctions.R
@@ -27,6 +27,6 @@ ecba145ed4c26d0a99a215c83cabab55 *man/dot-orthogonalizeA.Rd
 0581e4fd953676f79b22ff26858f4fb2 *man/spacs_to_seurat.Rd
 d8d9519c146ce0e350bc36b2da5bfe33 *man/subset_non_neighbour_cells.Rd
 b0847792f76229a99f2b464951e048f0 *src/RcppExports.cpp
-ca03d526ef3d837a26178f498c51db23 *src/Rcpp_Functions.cpp
+7199caaa64d555f8cf04febb84f2f329 *src/Rcpp_Functions.cpp
 517588f8fb1627dfaab7b0eefad91a6f *tests/testthat.R
-d4e70bdc731dc4d3d902f14414550898 *tests/testthat/test-SCA.R
+03da3b78fe8f56966412693b947eb24d *tests/testthat/test-SCA.R
