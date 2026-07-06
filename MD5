@@ -1,8 +1,8 @@
-9f837d2dd4edf2bfb4d93a5a5b54a97f *DESCRIPTION
+564e01beb577c2126df2a783ee4008a6 *DESCRIPTION
 7c0d98c8500eed61db8e45b9b6380b30 *LICENSE
 d0714810adcfd5bcc098f8dd4836ea7b *NAMESPACE
 40de7d7d6de7bfec551c44aa9816d9e7 *R/AuxiliaryFunctions.R
-cae6b3da32f3ffd07933ae1c646036a2 *R/EvalFunctions.R
+6e3a3d25238d87fe0768ed1adb841fcb *R/EvalFunctions.R
 d844f104185f95b5278e44c9116ba534 *R/PlotFunctions.R
 0ede7dcb0ab7385503a496a88495d51d *R/RcppExports.R
 c0b849216fcfeb2c33722462f7a98e60 *R/Seuratwrappers.R

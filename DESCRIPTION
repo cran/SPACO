@@ -1,6 +1,6 @@
 Package: SPACO
 Title: Spatial Component Analysis for Spatial Sequencing Data
-Version: 1.0.1
+Version: 1.0.2
 Authors@R: 
   person("David", "Köhler", , "koehler@imbie.uni-bonn.de", role = c("aut", "cre"),
            comment = c(ORCID = "0009-0006-0027-4046"))
@@ -11,7 +11,6 @@ Description: Spatial components offer tools for dimension reduction and
   spatial variability and denoising of spatial expression patterns. For more 
   details, see Koehler et al. (2026) <doi:10.1093/bioinformatics/btag052>.
 Encoding: UTF-8
-RoxygenNote: 7.3.3
 LinkingTo: Rcpp, RcppEigen
 Depends: R (>= 4.2.3)
 Imports: ggplot2, Seurat (>= 5.3.0), tibble, ggforce, methods, rARPACK,
@@ -19,10 +18,11 @@ Imports: ggplot2, Seurat (>= 5.3.0), tibble, ggforce, methods, rARPACK,
 License: MIT + file LICENSE
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
+Config/roxygen2/version: 8.0.0
 NeedsCompilation: yes
-Packaged: 2026-03-31 14:31:19 UTC; koehler
+Packaged: 2026-07-06 11:55:14 UTC; koehler
 Author: David Köhler [aut, cre] (ORCID:
     <https://orcid.org/0009-0006-0027-4046>)
 Maintainer: David Köhler <koehler@imbie.uni-bonn.de>
 Repository: CRAN
-Date/Publication: 2026-03-31 22:40:38 UTC
+Date/Publication: 2026-07-06 12:20:02 UTC
